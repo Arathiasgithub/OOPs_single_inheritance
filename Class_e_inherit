@@ -1,0 +1,15 @@
+public class Class_e_inherit/*child class*/  extends Class_d_inherit/*parent class*/{
+
+	void ab()
+	{
+		System.out.println("kite");
+	}
+	public static void main(String[] args) {
+		
+  Class_e_inherit h=new Class_e_inherit();//child class object creation
+  h.display();
+  h.display1();
+  h.ab();
+	}
+
+}
