@@ -1,0 +1,16 @@
+public class Class_d_inherit {
+
+	void display()
+	{
+		System.out.println("hai");
+	}
+	void display1()
+	{
+		System.out.println("hello");
+	}
+	public static void main(String[] args) {
+	
+
+	}
+
+}
